@@ -1,13 +1,13 @@
 
 {
-    "name": "room0",
+    "name": "room_hello_world",
     "id": "63d38673-2b42-48bb-9a16-34305e40d0e9",
     "creationCodeFile": "",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-
+        "365ecc46-c128-44b4-a780-51973e02b469"
     ],
     "IsDnD": false,
     "layers": [
@@ -25,7 +25,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_7591D376","id": "365ecc46-c128-44b4-a780-51973e02b469","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_7591D376","objId": "4b118b20-34e3-4bd0-9d77-34b76e64a0b5","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 512,"y": 384}
             ],
             "layers": [
 
